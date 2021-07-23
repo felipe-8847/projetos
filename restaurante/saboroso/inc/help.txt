@@ -1,0 +1,5 @@
+comando para iniciar o servidor express {
+    set DEBUG=saboroso:* & npm start
+
+    sboroso = nome do projeto
+}
